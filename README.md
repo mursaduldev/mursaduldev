@@ -26,7 +26,9 @@ A **MERN Stack Developer** from Bangladesh, building modern web applications.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/mdmursadulislam) 
 
 # 💻 Tech Stack:
-**Frontend:** React.js, Redux, Tailwind CSS, HTML, CSS, JavaScript  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB  
-**Tools & Platforms:** Git, GitHub, VS Code, Postman, Heroku, Vercel  
+Languages: JavaScript (ES6+), TypeScript, Python, C, C++
+Core Concepts: Data Structures & Algorithms (DSA), Object-Oriented Programming (OOP)
+Frontend: React.js, Next.js, Tailwind CSS, HTML5, CSS3, Bootstrap, Redux Toolkit
+Backend: Node.js, Express.js, Flask, REST API, JWT Auth
+Databases: MongoDB, PostgreSQL, MySQL
+Tools & DevOps: Git, GitHub, VS Code, Postman, Vercel, Netlify
