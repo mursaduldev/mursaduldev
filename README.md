@@ -1,6 +1,4 @@
-Hi! I'm **Md. Mursadul Islam** 👋  
-A **MERN Stack Developer** from Bangladesh, building modern web applications.
-
+🔭 I'm currently working onA full-stack web application using Next.js and PostgreSQL.🧑‍🤝‍🧑 I'm looking to collaborate onOpen-source projects focusing on improving developer tooling or documentation.🤝 I'm looking for help withOptimizing complex database queries for better performance.🌱 I'm currently learningGo (Golang) for backend microservices.🗣️ Ask me aboutReact Hooks, Cloud Infrastructure (AWS/Azure), and efficient project management.⚡ Fun factI can solve a Rubik's Cube in under two minutes!
 
 
 
